@@ -1,0 +1,5 @@
+Date,Time,Technician,Lab,Plot,Seed Sample,Humidity,Light,Temperature,Equipment Fault,Plants,Blossoms,Fruit,Min Height,Max Height,Median Height,Notes
+,,,B,0,,0.56,4.0,6.0,False,0,0,0,0.0,0.0,0.0,"
+"
+10-10-2021,10:39,h,A,3,12,0.52,1.0,6.0,False,0,0,0,0.0,0.0,1.0,"Hheeh
+"
